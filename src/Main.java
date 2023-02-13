@@ -110,6 +110,6 @@ public class Main {
         var newWorkers = workers + 94;
         var totalHours = newWorkers * 8;
         System.out.println("Если в компании работает " + newWorkers + " человека," + " то всего "
-                + totalHours + " часов работы может быть поделено между сотрудниками.");
+                + totalHours + " часов работы может быть поделено между сотрудниками");
     }
 }
